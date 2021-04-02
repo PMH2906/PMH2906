@@ -1,4 +1,4 @@
- ## Introduce 👋
+ ##Introduce 👋
 
 -:mortar_board:Sejong Univ. Intelligent Mechatronic Engineering
 
