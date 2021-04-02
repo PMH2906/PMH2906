@@ -1,8 +1,12 @@
 ### Introduce 👋
 열심히 딥러닝 공부 중!:fire:
 
+캡스톤 진행으로 Webrtc 공부 병행!!
 
-### Graduation:mortar_board
+잘 부탁드립니다:blush:
+
+
+### Graduation:mortar_board:
 -Sejong Univ. Intelligent Mechatronic Engineering
 
 
