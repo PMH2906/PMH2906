@@ -1,4 +1,5 @@
-Hi there 👋
+###Profile 👋
+:mortar_board:Sejong Univ. 지능기전공학부 무인이동체공학과 전공
 
 <!--
 **PMH2906/PMH2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
