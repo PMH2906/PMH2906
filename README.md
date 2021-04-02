@@ -1,10 +1,12 @@
- ### Introduce 👋
-
--:mortar_board:Sejong Univ. Intelligent Mechatronic Engineering
-
+### Introduce 👋
+열심히 딥러닝 공부 중!:fire:
 
 
- ### Project:fire:
+### Graduation:mortar_board
+-Sejong Univ. Intelligent Mechatronic Engineering
+
+
+### Project:star:
 -flower classification
 -who are you(안면인식장애를 위한 IOT 개발)
 -웹 기반 실시간 비디오 스트리밍 로봇 개발(진행 중)
