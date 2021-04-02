@@ -1,10 +1,10 @@
-##Introduce 👋
+ ## Introduce 👋
 
 -:mortar_board:Sejong Univ. Intelligent Mechatronic Engineering
 
 
 
-##Project:fire:
+ ## Project:fire:
 -flower classification
 -who are you(안면인식장애를 위한 IOT 개발)
 -웹 기반 실시간 비디오 스트리밍 로봇 개발(진행 중)
