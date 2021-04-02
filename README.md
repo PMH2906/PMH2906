@@ -6,14 +6,14 @@
 잘 부탁드립니다:blush:
 
 ### Graduation:mortar_board:
--Sejong Univ. Intelligent Mechatronic Engineering
+- Sejong Univ. Intelligent Mechatronic Engineering
 
 ### Project:star:
--flower classification
+- flower classification
 
--who are you(안면인식장애를 위한 IOT 개발)
+- who are you(안면인식장애를 위한 IOT 개발)
 
--웹 기반 실시간 비디오 스트리밍 로봇 개발(진행 중)
+- 웹 기반 실시간 비디오 스트리밍 로봇 개발(진행 중)
 
 
 
