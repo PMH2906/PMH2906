@@ -15,7 +15,7 @@
 
 - 동물 복지와 관련된 사물 인식 프로젝트 - Matlab을 이용하여 정확도 높은 YOLO v2, V3 모델 개발 연구.
 
-
+- Naver 검색 API 기반 News Web Page 구현
 
 <!--
 **PMH2906/PMH2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
