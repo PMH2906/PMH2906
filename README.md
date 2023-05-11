@@ -1,21 +1,23 @@
-### Introduce 👋
-열심히 딥러닝 공부 중:fire:
+# Introduce 👋
+BackEnd 개발자로 성장하고 싶은 박미희입니다.
 
 잘 부탁드립니다:blush:
 
-### Graduation:mortar_board:
+# Graduation:mortar_board:
 - Sejong Univ. Intelligent Mechatronic Engineering
 
-### Project:star:
-- flower classification
+# Project:star:
+### SULNAEEUM 
+'술내음'은 우리 술을 알리고, 사용자의 취향을 반영한 전통주를 추천해주는 사용자 맞춤 전통주 서비스입니다.
 
-- who are you(안면인식장애를 위한 IOT 개발)
+### LEARNWAY
+ WEBRTC 기반 화상 언어 교환 플랫폼인 ‘LEARNWAY’는 화상 통화와 더불어 YouTube동시 시청, 번역기, 복습 등의 기능을 제공하는 컨텐츠 기반 화상 언어 교환 플랫폼입니다.
 
-- 웹 기반 실시간 비디오 스트리밍 로봇 개발
+### SUBLEASE
+‘SUBLEASE ‘는 전대 매물의 불편함과 사고를 방지하고 보다 편리하게 매물 거래를 할 수 있도록 돕는 서비스입니다.
 
-- 동물 복지와 관련된 사물 인식 프로젝트 - Matlab을 이용하여 정확도 높은 YOLO v2, V3 모델 개발 연구.
-
-- Naver 검색 API 기반 News Web Page 구현
+### 웹 기반 실시간 비디오 스트리밍 로봇 개발
+ WebRTC 기술을 활용해 라즈베리파이4 기반 로봇을 원격으로 제어하며 실시간 비디오 스트리밍이 가능 한 웹을 구축하였습니다.
 
 <!--
 **PMH2906/PMH2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
