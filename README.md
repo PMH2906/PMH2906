@@ -7,6 +7,11 @@ BackEnd 개발자로 성장하고 싶은 박미희입니다.
 - Sejong Univ. Intelligent Mechatronic Engineering
 
 # Project:star:
+### WORLDY
+'WORLDY'는 Gamification을 통해 세계의 시사상식을 학습하는 3D 메타버스 서비스입니다.
+<br>
+[👉🏻 GIT 바로가기](https://github.com/SSAFY507/Worldy)
+
 ### SULNAEEUM
 '술내음'은 우리 술을 알리고, 사용자의 취향을 반영한 전통주를 추천해주는 사용자 맞춤 전통주 서비스입니다.
 <br>
