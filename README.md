@@ -1,6 +1,5 @@
 # Introduce 👋
-BackEnd 개발자로 성장하고 싶은 박미희입니다.
-
+BackEnd 개발자 박미희입니다.
 잘 부탁드립니다:blush:
 
 # Graduation:mortar_board:
