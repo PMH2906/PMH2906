@@ -1,7 +1,5 @@
 # Introduce
 BackEnd 개발자 박미희입니다.
-잘 부탁드립니다:blush:
-
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mihee78952)](https://solved.ac/mihee78952)
 
 # Graduation
