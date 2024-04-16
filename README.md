@@ -2,8 +2,8 @@
 BackEnd 개발자 박미희입니다.
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mihee78952)](https://solved.ac/mihee78952)
 
-// # Graduation
-// - Sejong Univ. Intelligent Mechatronic Engineering
+<-- # Graduation
+- Sejong Univ. Intelligent Mechatronic Engineering -->
 
 # Project
 ### WORLDY
