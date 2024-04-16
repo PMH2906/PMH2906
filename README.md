@@ -1,11 +1,13 @@
-# Introduce 👋
+# Introduce
 BackEnd 개발자 박미희입니다.
 잘 부탁드립니다:blush:
 
-# Graduation:mortar_board:
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mihee78952)](https://solved.ac/mihee78952)
+
+# Graduation
 - Sejong Univ. Intelligent Mechatronic Engineering
 
-# Project:star:
+# Project
 ### WORLDY
 'WORLDY'는 Gamification을 통해 세계의 시사상식을 학습하는 3D 메타버스 서비스입니다.
 <br>
