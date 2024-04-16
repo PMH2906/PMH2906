@@ -1,6 +1,11 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20MiheePark%20%20&height=200&fontSize=100)
+<div align="center">
+
 # Introduce
 BackEnd 개발자 박미희입니다.
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=mihee78952)](https://solved.ac/mihee78952)
+<br>
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=mihee78952)](https://solved.ac/mihee78952)
+
 
 # Project
 ### WORLDY
@@ -22,7 +27,7 @@ BackEnd 개발자 박미희입니다.
  WebRTC 기술을 활용해 라즈베리파이4 기반 로봇을 원격으로 제어하며 실시간 비디오 스트리밍이 가능 한 웹을 구축하였습니다.
 <br>
 [👉🏻 GIT 바로가기](https://github.com/PMH2906/21-1_Capstone_deeply)
-
+</div>
 <!--
 **PMH2906/PMH2906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
