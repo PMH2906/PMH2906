@@ -12,6 +12,16 @@
 
 <br>
 
+## Skill
+<div align=center> 
+ <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white">
+ <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white">
+ <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white">
+ <img src="https://img.shields.io/badge/tibero-D7192D?style=flat&logo=tibero&logoColor=white">
+</div>
+
+<br>
+
 ## Project
 #### [WORLDY](https://github.com/SSAFY507/Worldy)
 'WORLDY'는 Gamification을 통해 세계의 시사상식을 학습하는 3D 메타버스 서비스입니다.
@@ -28,6 +38,14 @@
 #### [웹 기반 실시간 비디오 스트리밍 로봇 개발](https://github.com/PMH2906/21-1_Capstone_deeply)
  WebRTC 기술을 활용해 라즈베리파이4 기반 로봇을 원격으로 제어하며 실시간 비디오 스트리밍이 가능 한 웹을 구축하였습니다.
 <br>
+
+<br>
+
+## Certificate
+SQLD
+<br>
+ADsP
+
 
 </div>
 <!--
