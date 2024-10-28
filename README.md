@@ -23,20 +23,13 @@
 <br>
 
 ## Project
-#### [WORLDY](https://github.com/SSAFY507/Worldy)
-'WORLDY'는 Gamification을 통해 세계의 시사상식을 학습하는 3D 메타버스 서비스입니다.
+#### [MSA 기반 MINI 코어 뱅킹 시스템](https://github.com/PMH2906/CoreBank-MSA-PoC)
+'MSA 기반 MINI 코어 뱅킹 시스템'은 MSA 환경에서 발생할 수 있는 트랜잭션의 원자성을 유지하기 위해 Saga패턴과 Transactional Outbox 패턴을 도입해 구현한 프로젝트입니다.
 <br>
 
 #### [SULNAEEUM](https://github.com/SSAFY707/SULNAEEUM)
 '술내음'은 우리 술을 알리고, 사용자의 취향을 반영한 전통주를 추천해주는 사용자 맞춤 전통주 서비스입니다.
-<br>
 
-#### [LEARNWAY](https://github.com/PMH2906/LEARNWAY)
- WEBRTC 기반 화상 언어 교환 플랫폼인 ‘LEARNWAY’는 화상 통화와 더불어 YouTube동시 시청, 번역기, 복습 등의 기능을 제공하는 컨텐츠 기반 화상 언어 교환 플랫폼입니다.
- <br>
-
-#### [웹 기반 실시간 비디오 스트리밍 로봇 개발](https://github.com/PMH2906/21-1_Capstone_deeply)
- WebRTC 기술을 활용해 라즈베리파이4 기반 로봇을 원격으로 제어하며 실시간 비디오 스트리밍이 가능 한 웹을 구축하였습니다.
 <br>
 
 <br>
